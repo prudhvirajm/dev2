@@ -1,2 +1,2 @@
 # dev2
-create new repository
+create new repository from local system to git .
